@@ -1,0 +1,485 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 37a483882934f5b4bbf2389869eb8485
+  m_SerializeEntries:
+  - m_GUID: d0bb4e87d06098c4da5b9b7a72d9faf6
+    m_Address: Assets/_BucketFill/Art
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85ae6bfd0d8dd26408a59c9ef25458af
+    m_Address: Assets/_BucketFill/Gameplay
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6188cadaac46966478a39cb3ce126a4e
+    m_Address: Assets/_BucketFill/BucketFill.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfcaab6fd3494b041b646bf236eb3750
+    m_Address: EntryPointPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f70658739be942469f5a25cc7e656a0
+    m_Address: Assets/_BucketFill/Art/Animations
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2560b95e258db194fa48bcfa4ea21507
+    m_Address: Assets/_BucketFill/Art/Sound
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f45abd02d9e808469fc3500b660ee3a
+    m_Address: Assets/_BucketFill/Art/Sprites/Colours
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36c4707276e8ab743abc061735b68bc4
+    m_Address: Assets/_BucketFill/Art/Animations/Idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9affd6f227e07a4c81948f3779beef1
+    m_Address: Assets/_BucketFill/Art/Animations/Shrink.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 960eb9fd43edab44294a6fdaf31ecf3d
+    m_Address: Assets/_BucketFill/Art/Animations/Ink.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76cd4f5c7fbb13646aa1021b608468fc
+    m_Address: Assets/_BucketFill/Art/Sound/BGM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0aaa0d5601568fb4b8932cbd6e2b4410
+    m_Address: Assets/_BucketFill/Art/Sound/SFX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 382d3099394ee334cbe10e6d9756c4ae
+    m_Address: Assets/_BucketFill/Art/Sprites/Beaver
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c26812d4656d49489c77bd131677dcb
+    m_Address: Assets/_BucketFill/Art/Assets/_BucketFill/Art
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64256134c01caab4e8fbd84bd4d6ad16
+    m_Address: Assets/_BucketFill/Art/Assets/_BucketFill/Art/Tent
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6dc60fc7acde818429d9e6e3ec2986d7
+    m_Address: Assets/_BucketFill/Art/Assets/_BucketFill/Art/panel.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 529e35ca707804e42acc0b75471c9efa
+    m_Address: "Assets/_BucketFill/Art/Sprites/Artboard \u2013 7.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c20873ee88b7d334083964692078f08d
+    m_Address: Assets/_BucketFill/Art/Sprites/colored.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53f205996030eab418129fddf811bffd
+    m_Address: Assets/_BucketFill/Art/Sprites/background.PNG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e358eadaec13ff40a457a12e865f155
+    m_Address: Assets/_BucketFill/Art/Sprites/Colours/empty.PNG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 712e40f7b7c519c4b961eb78e9bff7bc
+    m_Address: Assets/_BucketFill/Art/Sprites/Colours/color5.PNG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f8679cdf380ba64cba8f86409958440
+    m_Address: Assets/_BucketFill/Art/Sprites/Colours/color2.PNG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30ddcd1520ee1184d86e5c0c7e59973e
+    m_Address: Assets/_BucketFill/Art/Sprites/Colours/color4.PNG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6ab7877c26503e47a9d38e874693ad7
+    m_Address: Assets/_BucketFill/Art/Sprites/Colours/color3.PNG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08dddb5635749e940bb1c9c9940d746f
+    m_Address: Assets/_BucketFill/Art/Sprites/Colours/color1.PNG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a54a8e8c495e0547ba90785ec467e65
+    m_Address: Assets/_BucketFill/Art/Sprites/Colours/color6.PNG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 666dfe733d1aeb5479814a7ce27b6d7b
+    m_Address: Assets/_BucketFill/Art/Sprites/Tent/_Outline.PNG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6828621ed195d72498a54f46c5f0e7e9
+    m_Address: Assets/_BucketFill/Art/Sprites/Beaver/_Outline.PNG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c69c582b1b615c4991717d65597f4ce
+    m_Address: Assets/_BucketFill/Art/Sprites/Tent/head.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b568be42d4243794a87c9c15e582c0f3
+    m_Address: Assets/_BucketFill/Art/Sprites/Tent/neck.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0df0a7c8e950a3c44bbfc1d61a753b94
+    m_Address: Assets/_BucketFill/Art/Sprites/Tent/fold_r.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30dd0770935f21a4e87b4d58b6611c05
+    m_Address: Assets/_BucketFill/Art/Sprites/Beaver/Nose.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee3af09444f50f147b06dde4bf4437f3
+    m_Address: Assets/_BucketFill/Art/Sprites/Beaver/Foot_R.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af1fd892fa119204289c4acc7ed140d4
+    m_Address: Assets/_BucketFill/Art/Sprites/Beaver/Arm_L.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 713437d8be20e1f448bc7a5cb89e7815
+    m_Address: Assets/_BucketFill/Art/Sprites/Beaver/Face.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff18be90a77cafc4a92bd3a61058d0fa
+    m_Address: Assets/_BucketFill/Art/Sprites/Tent/fold_l.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5bddab6e216248c48bfb1e3f76d8286c
+    m_Address: Assets/_BucketFill/Art/Sprites/Tent/mouth.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d8627e4ac58ba746860824af306306b
+    m_Address: Assets/_BucketFill/Art/Sprites/Beaver/Legs.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b1ceffeeb4fb8941867c7d7fec6a91b
+    m_Address: Assets/_BucketFill/Art/Sprites/Tent/patch.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c42226ae4e12df143958b09774566f4f
+    m_Address: Assets/_BucketFill/Art/Sprites/Beaver/Belly.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0377eb74c99ec474f901d8e9dd180a80
+    m_Address: Assets/_BucketFill/Art/Sprites/Tent/ears.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6786cbe4efdc93e41919882752a80a1b
+    m_Address: Assets/_BucketFill/Art/Sprites/Beaver/Foot_L.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9dc9b426dcb38ff40a828ecc29b10a7f
+    m_Address: Assets/_BucketFill/Art/Sprites/Tent/face.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1cd34b4b7b640fc4cbd8ec75a22fe211
+    m_Address: Assets/_BucketFill/Art/Sprites/Beaver/Arm_R.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d955972d0597d7a49af5f2e4f184b9e6
+    m_Address: Assets/_BucketFill/Art/Ink Area.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7edc22f14828fd4796d6acd833ac55b
+    m_Address: Assets/_BucketFill/Art/Volume.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbfd3ac15c695ad4ead148cb0f266364
+    m_Address: Assets/_BucketFill/Gameplay/Assets/_BucketFill/Gameplay
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e13ec13ec8d67e949b37364e031d4653
+    m_Address: Assets/_BucketFill/Gameplay/Code/Shaders
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 211557db5bd05794d87b32f9d5843e1a
+    m_Address: Assets/_BucketFill/Gameplay/Code/Shaders/Sub-Graphs
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6842b0f165891ac4897e200d6d534440
+    m_Address: Assets/_BucketFill/Gameplay/Code/Shaders/Area Fill Shader.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 510540469075f394e94b9be105efa2fb
+    m_Address: Assets/KIDSGameLibrary/Animations
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3ac0a00f2c5535458c35103bfa3808c
+    m_Address: Assets/KIDSGameLibrary/Art
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22dbf97e91f3aed4d92f14f337bf02dc
+    m_Address: Assets/KIDSGameLibrary/Code
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09acbb2b04456864bb25b5bdd84c4405
+    m_Address: Assets/KIDSGameLibrary/Data
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc789e8b7967119469e9093df744c4d7
+    m_Address: Assets/KIDSGameLibrary/Sound
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 232a168533849224390ff807816fa0e2
+    m_Address: Assets/KIDSGameLibrary/Art/Sprites
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f55b15872d7ebe34cae23474167eef63
+    m_Address: Assets/KIDSGameLibrary/Art/UI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f4b21d5bc8bc8944a49cae6b1635ed2
+    m_Address: Assets/KIDSGameLibrary/Art/VFX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 143f626e58eb7c1489876509cfa95261
+    m_Address: Assets/KIDSGameLibrary/Code/Scripts
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c22aa5d5314bcd742824c8a58418ba0b
+    m_Address: Assets/KIDSGameLibrary/Sound/BGM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 031b343df3de92a4095a1cec1f4b546d
+    m_Address: Assets/KIDSGameLibrary/Sound/SFX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d11df5b00f2fa94489dafb61352c2db7
+    m_Address: Assets/KIDSGameLibrary/Code/Scripts/Audio
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7683446d7e82d94bb835836bb14d126
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Materials
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f20100d0ec2887d4c82eb0a93840ddd2
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Prefabs
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a83162b1c825a844a8c47360690c8920
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Shaders
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d6d6e9dfc560a14e8a883232ea9a02c
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Textures
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b6451164a9c9ce47a4d75a0842ed5a6
+    m_Address: Assets/KIDSGameLibrary/Animations/SnapAnimator.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbe25768bf15d6640b65d39c4f557726
+    m_Address: Assets/KIDSGameLibrary/Animations/Snapanim.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b772c66efddad2743ba3ea62c7da16ce
+    m_Address: Assets/KIDSGameLibrary/Data/Default Sound Profile.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5e760ed74d64d44b94402a44ca7a333
+    m_Address: Assets/KIDSGameLibrary/Code/Shaders
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74769a5a0c588104c8b339327f550619
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Textures/Conffetti 2x3 (1).png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 055bb2cd62e17014786706c24bfc07fe
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Textures/Conffetti 2x3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6433a8ab38e736479dcdbe9a7009c3f
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Textures/progress_bar Tex.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c868fd0e760b4d3488c4cc6f520f81c5
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Textures/Small Glow.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd3f0615763d44347808ed0cf9b8bf99
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Textures/Star.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa2d36b6d176f2244b31c10f59121209
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Shaders/ParticlesHDR_Add.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27b49138b9032f4468ae07840ba77745
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Prefabs/Conffetti.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4b54e6f8502f7a429b0c8d7317d9719
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Prefabs/ConffettiImpact.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fee8eedda74351d488fc5869b035803c
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Prefabs/Firework.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ccbb7a3733ae298458e202acef4a9d0c
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Prefabs/Stars.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6053f426dc1dd184ea3e61a4b08acaec
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Materials/Conffetti 2x3.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5282c50d2ccdd5418ae36712b9075de
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Materials/Glow.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c22afd6a3793d24fa9b9e0e74b2c08b
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Materials/GlowSparks 1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75c47f8f12972974db4305e1f64765a1
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Materials/Glow 1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a71b889c76c87f4428a30a2495380f91
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Materials/Star 1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc98a8ebda6c80c49962c72a409c9139
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Materials/Star.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c5b8919f167a874aaf305771a616928
+    m_Address: Assets/KIDSGameLibrary/Art/VFX/Materials/Conffetti 2x3 1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93b439a37f63240aca3dd4e01d978a9f
+    m_Address: Assets/Settings/URP Global Settings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9272cc08e31a2f74ead8296a4bc3a11f
+    m_Address: Assets/Settings/Renderer Data.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 681886c5eb7344803b6206f758bf0b1c
+    m_Address: Assets/Settings/Pipeline Asset.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54da43d6457396743bf4fa2c2867476f
+    m_Address: Assets/Settings
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ca00f384925d6a4d8339764220dbd88
+    m_Address: EntryPoint
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a497a640b898cb14390e54499884a13b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: dee0cf44f8eff864b8218fc49ca8e95c, type: 2}
+    - {fileID: 11400000, guid: 18ae8750944ae0940b4f83c83dd4ac1e, type: 2}
