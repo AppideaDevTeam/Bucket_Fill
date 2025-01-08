@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: 37a483882934f5b4bbf2389869eb8485
   m_currentHash:
     serializedVersion: 2
-    Hash: 00000000000000000000000000000000
+    Hash: 2a8b36c2bb6e56cc503288cadaff0ff3
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
@@ -68,7 +68,7 @@ MonoBehaviour:
       - m_Id: 520238a36a6d1c0469c61edaae75fb1c
         m_Value: http://[PrivateIpAddress]:[HostingServicePort]
       - m_Id: 4970695aad697d24a81565b6ac9bc5b7
-        m_Value: 0.1.0
+        m_Value: 0.1.6
       - m_Id: 30f614dfb1dfd634cba16500ef37d129
         m_Value: ServerData/bucket_fill/[BuildTarget]/[BundleVersion]/
       - m_Id: 6a6839542d300bf469082314e2ca7bc9
