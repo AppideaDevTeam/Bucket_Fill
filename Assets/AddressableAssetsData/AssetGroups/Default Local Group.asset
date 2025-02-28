@@ -467,6 +467,61 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18e9c69fe626ff1419471d181c8cbc11
+    m_Address: Assets/_BucketFill/Art/home-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: acf3503b403897e4ab820c77eaf2269a
+    m_Address: Assets/Finger Point/Pointer.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 862eb9582d7f5b84f90299a33b90ebbc
+    m_Address: Assets/Finger Point/Pointer.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcb8b118c834c624ca2e52906d3f7efc
+    m_Address: Assets/Finger Point/Hand.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a7124dd6a93d5141b505d2c24819304
+    m_Address: Assets/MiniGames.Color_It
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3e3efeafe9fc71448e1d0074c594f85
+    m_Address: Assets/Finger Point
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39ec5c3ce052d9644bec80949f3c5a71
+    m_Address: Assets/Hierarchy 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46bbc3127ab152d4d97a8d8e8d1786de
+    m_Address: Assets/KIDSGameLibrary
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5925b9737187773418f26578e5a91220
+    m_Address: Assets/Resources
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e916d971e429456c958a93c7e0964cb
+    m_Address: Assets/Slider.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e95651764d8b4b4448f178e9f650f671
+    m_Address: Assets/Sprites
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: a497a640b898cb14390e54499884a13b, type: 2}
   m_SchemaSet:
