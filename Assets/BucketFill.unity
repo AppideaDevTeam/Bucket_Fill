@@ -131,17 +131,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 302639427003391928, guid: dfcaab6fd3494b041b646bf236eb3750, type: 3}
-      propertyPath: areaList.Array.size
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 3636260002206402643, guid: dfcaab6fd3494b041b646bf236eb3750, type: 3}
       propertyPath: m_Name
       value: Bucket Fill Game
-      objectReference: {fileID: 0}
-    - target: {fileID: 4094636195873487907, guid: dfcaab6fd3494b041b646bf236eb3750, type: 3}
-      propertyPath: areaList.Array.size
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8252494214712014534, guid: dfcaab6fd3494b041b646bf236eb3750, type: 3}
       propertyPath: m_AnchorMax.x
