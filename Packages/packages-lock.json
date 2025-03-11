@@ -1,13 +1,13 @@
 {
   "dependencies": {
     "com.appidea.minigameplatform.communicationapi": {
-      "version": "https://github.com/hauk70/MiniGameAPI.git",
+      "version": "https://github.com/hauk70/MiniGameAPI.git#1.2.3",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.unity.addressables": "1.21.21"
       },
-      "hash": "511a4bdc574eae0de9a55f70342b4134f30aa081"
+      "hash": "d5f96fa78eb91e62ea37a5ed8fa41e14fe6db0da"
     },
     "com.unity.2d.animation": {
       "version": "9.1.0",
