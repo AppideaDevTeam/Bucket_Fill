@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: 37a483882934f5b4bbf2389869eb8485
   m_currentHash:
     serializedVersion: 2
-    Hash: d46d3fa29ab25f549c544ba781025f57
+    Hash: 08fca70f7cda93010df29eec06224046
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
@@ -68,11 +68,11 @@ MonoBehaviour:
       - m_Id: 520238a36a6d1c0469c61edaae75fb1c
         m_Value: http://[PrivateIpAddress]:[HostingServicePort]
       - m_Id: 4970695aad697d24a81565b6ac9bc5b7
-        m_Value: 0.2.3
+        m_Value: 0.2.4
       - m_Id: 30f614dfb1dfd634cba16500ef37d129
         m_Value: ServerData/Color_It/[BuildTarget]/[BundleVersion]/
       - m_Id: 6a6839542d300bf469082314e2ca7bc9
-        m_Value: https://pub-25fa0453d98e4986bc814d9782de48ca.r2.dev/Color_It/[BuildTarget]/[BundleVersion]/
+        m_Value: https://pub-319aec1abf3d49c0b7855a7e3ef538f4.r2.dev/Color_It/[BuildTarget]/[BundleVersion]/
     m_ProfileEntryNames:
     - m_Id: d9652e0930dc4d04aba1acbf302c7642
       m_Name: BuildTarget
